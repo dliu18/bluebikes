@@ -1,0 +1,524 @@
+id,Name,Lat,Long,Race
+115,Porter Square Station,42.387995,-71.119084,White
+96,Cambridge Main Library at Broadway / Trowbridge St,42.373379,-71.111075,White
+80,MIT Stata Center at Vassar St / Main St,42.3619622,-71.0920526,Asian
+95,Cambridge St - at Columbia St / Webster Ave,42.372969,-71.094445,White
+91,One Kendall Square at Hampshire St / Portland St,42.366277,-71.09169,White
+68,Central Square at Mass Ave / Essex St,42.36507,-71.1031,White
+105,Lower Cambridgeport at Magazine St/Riverside Rd,42.356954,-71.113687,White
+88,Inman Square at Vellucci Plaza / Hampshire St,42.374035,-71.101427,White
+76,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,42.366426,-71.105495,White
+118,Linear Park - Mass. Ave. at Cameron Ave. ,42.397828,-71.130516,White
+117,Binney St / Sixth St,42.366095,-71.086388,White
+67,MIT at Mass Ave / Amherst St,42.3581,-71.093198,Asian
+75,Lafayette Square at Mass Ave / Main St / Columbia St,42.36346469304347,-71.10057324171066,White
+36,Boston Public Library - 700 Boylston St.,42.349673,-71.077303,White
+23,Mayor Martin J Walsh - 28 State St,42.35892,-71.057629,White
+90,Lechmere Station at Cambridge St / First St,42.370677,-71.076529,White
+116,359 Broadway - Broadway at Fayette Street,42.370803,-71.104412,White
+46,Christian Science Plaza,42.343864,-71.085918,White
+141,Kendall Street,42.36356015842989,-71.08216792345047,White
+110,Harvard University Gund Hall at Quincy St / Kirkland S,42.376369,-71.114025,White
+104,Harvard University Radcliffe Quadrangle at Shepard St / Garden St,42.380287,-71.125107,White
+73,Harvard Square at Brattle St / Eliot St,42.373231,-71.120886,White
+6,Cambridge St. at Joy St.,42.361174,-71.065142,White
+140,Danehy Park,42.388966,-71.132788,White
+107,Ames St at Main St,42.3625,-71.08822,Asian
+74,Harvard Square at Mass Ave/ Dunster,42.373268,-71.118579,White
+87,Harvard University Housing - 115 Putnam Ave at Peabody Terrace,42.366621,-71.114214,White
+89,Harvard Law School at Mass Ave / Jarvis St,42.379011,-71.119945,White
+143,EF - North Point Park,42.369885,-71.069957,White
+70,Harvard Kennedy School at Bennett St / Eliot St,42.371196,-71.121473,White
+97,Harvard University River Houses at DeWolfe St / Cowperthwaite St,42.36919031768079,-71.11714124679565,White
+72,One Broadway / Kendall Sq at Main St / 3rd St,42.362613,-71.084105,White
+84,CambridgeSide Galleria - CambridgeSide PL at Land Blvd,42.366981,-71.076472,White
+51,Washington St. at Lenox St.,42.3348756,-71.0790969,Hispanic or Latino
+108,Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,42.377945,-71.116865,White
+142,Alewife Station at Russell Field,42.396105,-71.139459,White
+38,TD Garden - Causeway at Portal Park #2,42.366222,-71.059914,White
+85,Spaulding Rehabilitation Hospital - Charlestown Navy Yard,42.378338,-71.048927,White
+145,Rindge Avenue - O'Neill Library,42.392766,-71.129042,White
+149,Harvard University Transportation Services - 175 North Harvard St,42.363796,-71.129164,White
+81,Boylston St / Washington St,42.352409,-71.062679,White
+20,Aquarium Station - 200 Atlantic Ave.,42.35977,-71.051601,White
+29,Innovation Lab - 125 Western Ave. at Batten Way,42.363732,-71.124565,White
+16,Back Bay / South End Station,42.34807412317439,-71.07657015323639,White
+109,TD Garden - Causeway at Portal Park #1,42.365942,-71.060515,White
+4,Tremont St. at Berkeley St.,42.345392,-71.069616,White
+32,Landmark Centre,42.343912,-71.102221,White
+33,Kenmore Sq / Comm Ave,42.348706,-71.097009,White
+21,Prudential Center / Belvidere,42.345959,-71.082578,White
+42,Boylston St. at Arlington St.,42.352033,-71.070627,Hispanic or Latino
+14,HMS / HSPH - Ave. Louis Pasteur at Longwood Ave.,42.337171,-71.102797,White
+98,Charlestown - Warren St at Chelsea St,42.371848,-71.060292,White
+17,Harvard University Housing - 111 Western Ave. at Soldiers Field Park ,42.365064,-71.119233,White
+15,Harvard Real Estate - Brighton Mills - 370 Western Ave,42.361667,-71.13802,White
+54,Tremont St / West St,42.354979,-71.063348,White
+1,18 Dorrance Warehouse,42.387151,-71.075978,White
+59,Chinatown Gate Plaza - Surface Rd. at Beach St.,42.351356,-71.059367,Asian
+11,Longwood Ave / Binney St,42.338629,-71.1065,White
+9,Agganis Arena - 925 Comm Ave.,42.351246,-71.115639,White
+120,Charles St at Beacon St,42.356052,-71.069849,Hispanic or Latino
+41,Packard's Corner - Comm. Ave. at Brighton Ave.,42.352261,-71.123831,White
+10,B.U. Central - 725 Comm. Ave.,42.350406,-71.108279,White
+44,Faneuil Hall - Union St. at North St.,42.360613,-71.057452,White
+58,The Esplanade - Beacon St. at Arlington St.,42.355596,-71.07278,White
+99,Wilson Square,42.385582,-71.113341,White
+60,Charles Circle - Charles St. at Cambridge St.,42.360835,-71.0708399,White
+53,Beacon St / Mass Ave,42.350851,-71.089886,White
+71,Conway Park - Somerville Avenue,42.383405,-71.107593,White
+100,Davis Square,42.396969,-71.123024,White
+55,Boylston / Mass Ave,42.347265,-71.088088,White
+112,Somerville Hospital at Highland Ave / Crocker St,42.39082,-71.10942,White
+66,Allston Green District - Commonwealth Ave & Griggs St,42.348607,-71.13401,White
+86,Brookline Village - Pearl Street @ MBTA,42.332799,-71.116205,White
+78,Union Square - Somerville,42.379637,-71.095319,White
+122,BIDMC - Brookline at Burlington St,42.345733,-71.100694,White
+22,South Station - 700 Atlantic Ave.,42.352175,-71.055547,White
+40,Lewis Wharf - Atlantic Ave.,42.363871,-71.050877,White
+114,Teele Square at 239 Holland St,42.402763,-71.126908,White
+125,Hyde Square at Barbara St,42.320998,-71.110833,White
+123,JP Center - Centre Street at Myrtle Street,42.313156,-71.11414,White
+39,Washington St. at Rutland St.,42.338623,-71.074182,White
+19,Buswell St. at Park Dr.,42.347241,-71.105301,White
+45,Yawkey Way at Boylston St.,42.344706,-71.097515,White
+48,Post Office Square,42.356755,-71.055407,White
+43,Rowes Wharf - Atlantic Ave,42.357143,-71.050699,White
+24,Seaport Square - Seaport Blvd. at Boston Wharf,42.351205,-71.043983,White
+57,Columbus Ave. at Mass. Ave.,42.340799,-71.081572,White
+7,Fan Pier,42.35328743453294,-71.04438900947571,White
+129,Hayes Square at Vine St.,42.377022,-71.056605,White
+64,Congress / Sleeper,42.3511,-71.0496,White
+135,ID Building East,42.344827,-71.028664,Hispanic or Latino
+150,State Street at Channel Center,42.344137,-71.052608,White
+121,West Broadway at Dorchester St,42.335693,-71.045859,White
+13,Boston Medical Center -  East Concord at Harrison Ave,42.336437,-71.073089,White
+49,Stuart St. at Charles St.,42.351146,-71.066289,White
+12,Ruggles Station / Columbus Ave.,42.335911,-71.088496,White
+77,Somerville City Hall,42.386844,-71.09812,White
+151,John F Fitzgerald - Surface Road at India Street,42.358155,-71.052163,White
+65,Boston Convention & Exhibition Center,42.3475,-71.0441,White
+47,Cross St. at Hanover St.,42.362811,-71.056067,White
+119,South Boston Library - 646 East Broadway,42.335741,-71.03877,White
+8,Union Square - Brighton Ave. at Cambridge St.,42.353334,-71.137313,White
+37,New Balance - 20 Guest St.,42.357402,-71.147782,White
+27,Roxbury Crossing Station,42.331184,-71.095171,Black
+93,JFK / UMASS at MBTA Station,42.320494,-71.051122,White
+3,Colleges of the Fenway,42.340021,-71.100812,White
+26,Washington St. at Waltham St.,42.341522,-71.068922,White
+131,Jackson Square T at Centre St,42.322701,-71.099533,Hispanic or Latino
+133,Green St T,42.310579,-71.107341,White
+111,Packard Ave / Powderhouse Blvd,42.40449,-71.123413,White
+102,Powder House Circle - Nathan Tufts Park,42.400877,-71.116772,White
+136,ID Building West,42.344796,-71.031614,Hispanic or Latino
+152,Ink Block,42.345901,-71.063187,White
+25,Tremont St / W Newton St,42.341332,-71.076847,White
+30,Brigham Cir / Huntington Ave,42.334073,-71.105221,White
+124,Curtis Hall at South Street,42.309054,-71.11543,White
+5,Northeastern U / North Parking Lot,42.341814,-71.090179,White
+94,Charlestown - Main St at Austin St,42.375603,-71.064608,White
+130,Upham's Corner - Ramsey St at Dudley St,42.317225,-71.065421,Black
+31,Seaport Hotel,42.348833,-71.041747,White
+63,Dorchester Ave. at Gillette Park,42.344023,-71.057054,White
+139,Dana Park,42.361589,-71.107437,White
+138,Mass Ave at Newmarket Square,42.326599,-71.066498,Black
+106,Mt Pleasant Ave / Dudley Town Common,42.325333,-71.075354,Black
+113,Andrew Station - Dorchester Ave at Humboldt Pl,42.330716,-71.057044,White
+137,Magoun Square at Trum Field,42.398365,-71.107818,White
+126,Egleston Square at Columbus Ave,42.315692,-71.098634,White
+103,JFK Crossing at Harvard St. / Thorndike St.,42.346563,-71.128374,White
+128,E. Cottage St at Columbia Rd,42.320561,-71.06198,White
+35,Franklin St. / Arch St.,42.355402,-71.058087,White
+69,Coolidge Corner - Beacon St @ Centre St,42.341598,-71.123338,White
+56,Dudley Square,42.328654,-71.084198,Black
+61,Boylston at Fairfield,42.348762,-71.082383,White
+134,New Balance Store - Boylston at Dartmouth,42.350413,-71.07655,White
+50,Boylston St / Berkeley St,42.350989,-71.073644,White
+52,Newbury St / Hereford St,42.348717,-71.085954,White
+82,Washington Square at Washington St. / Beacon St.,42.339335,-71.13493,White
+132,Summer St at Cutter St,42.394002,-71.120406,White
+79,Beacon St at Washington / Kirkland,42.37842,-71.105668,White
+92,UMass Boston Integrated Sciences Complex,42.314507,-71.041269,Asian
+161,West Broadway at D Street,42.3391085,-71.0514432,Hispanic or Latino
+160,Wentworth Institute of Technology,42.337596,-71.096391,White
+162,Franklin Park - Seaver Street at Humbolt Ave,42.309796,-71.092225,Black
+167,Ryan Playground - Dorchester Avenue Station,42.317642,-71.056664,White
+163,Lawn on D,42.344792,-71.044024,White
+170,Franklin Park Zoo,42.303469,-71.085347,Black
+169,Edwards Playground - Main Street & Eden Street,42.378965,-71.068607,White
+174,Washington St at Brock St,42.34900494405213,-71.1604106426239,White
+175,Brighton Center,42.34894857235593,-71.15027189254761,Hispanic or Latino
+159,Heath St at South Huntington,42.32797270205962,-71.11089706420898,White
+171,Bunker Hill Community College,42.37408991426522,-71.06905996799469,White
+178,MIT Pacific St at Purrington St,42.35957320109044,-71.10129475593567,White
+176,Lesley University,42.38674802045056,-71.11901879310608,White
+177,University Park,42.36264779118595,-71.10006093978882,White
+179,MIT Vassar St,42.35560121327927,-71.10394477844238,Asian
+180,Mt Auburn,42.37478628706384,-71.13320231437683,White
+190,Nashua Street at Red Auerbach Way,42.36559770612416,-71.06424808502197,White
+146,Day Boulevard,42.336448,-71.023739,Hispanic or Latino
+189,Kendall T,42.3624278429124,-71.08495473861694,Asian
+173,Savin Hill MBTA Station,42.310599,-71.053927,White
+186,Congress St and Northern Ave,42.3482032222746,-71.0376513004303,White
+192,Purchase St at Pearl St,42.354686,-71.053292,White
+193,Brookline Village - Station Street @ MBTA,42.33289074055233,-71.11658334732056,White
+194,Broadway St at Mt Pleasant St,42.38614141163957,-71.07828140258789,White
+195,Brian P. Murphy Staircase at Child Street,42.3720597013741,-71.07202649116516,White
+197,MLK Blvd at Washington St,42.321678,-71.091822,Black
+196,Roxbury YMCA,42.317963,-71.082254,Black
+200,Washington St at Melnea Cass Blvd,42.33282815812448,-71.08126938343048,Hispanic or Latino
+199,Upham's Corner T Stop,42.31884382360106,-71.06975734233856,Black
+153,8D OPS 03,45.505086,-73.566921,
+158,8D OPS 01,0.0,0.0,
+201,Walnut Ave at Crawford St,42.316873,-71.091955,Black
+203,Columbia Rd at Ceylon St,42.309566,-71.072863,Black
+204,Walnut Ave at Warren St,42.324069,-71.083162,Black
+205,Bowdoin St at Quincy St,42.30791912678712,-71.06502056121826,Asian
+202,Grove Hall Library,42.308035,-71.081159,Hispanic or Latino
+183,Alewife MBTA at Steel Place,42.39558845716709,-71.14260613918304,White
+207,Market St at Faneuil St,42.35480179069945,-71.15025043487549,White
+208,Oak Square YMCA,42.35048161669747,-71.16636693499458,White
+210,Bennington St at Byron St,42.38337841883669,-71.01612031481636,Hispanic or Latino
+209,Chelsea St at Saratoga St,42.37980321246644,-71.02744817733765,Hispanic or Latino
+214,Airport T Stop - Bremen St at Brooks St,42.37536686015489,-71.03135883808136,Hispanic or Latino
+212,Maverick Sq - Lewis Mall,42.3688385713652,-71.03976666949166,White
+213,EBNHC - 20 Maverick Sq,42.369562869377,-71.03942692279814,White
+217,Orient Heights T Stop - Bennington St at Saratoga St,42.38673178529929,-71.00621223455164,Hispanic or Latino
+211,Piers Park- Marginal St at East Boston Shipyard,42.36489045541549,-71.0350424052376,White
+215,The Eddy at New Street,42.37078454600501,-71.04426160454749,White
+216,Glendon St at Condor St,42.38244736415864,-71.0302323102951,Hispanic or Latino
+218,Watermark Seaport,42.351543104723206,-71.04573011398315,White
+184,Sidney Research Campus/ Erie Street at Waverly,42.35775309465199,-71.10393404960632,White
+185,Third at Binney,42.36544486137399,-71.08277142047882,White
+219,Central Square East Boston - Porter Street at London Street,42.37430131617823,-71.03808671246952,Hispanic or Latino
+182,Museum of Science,42.36769018024484,-71.07116281986237,White
+221,Verizon Innovation Hub 10 Ware Street,42.37250864997261,-71.11305356025696,White
+224,Fresh Pond Reservation,42.38267827521855,-71.143478951426,White
+226,Commonwealth Ave At Babcock St,42.35154734791375,-71.12126246094704,White
+227,Silber Way,42.34949599514002,-71.10057592391968,White
+225,Cambridge Dept. of Public Works -147 Hampshire St.,42.37119727759414,-71.09759867191315,White
+229,8D QC Station 01,0.0,0.0,
+230,8D QC Station 02,0.0,0.0,
+228,One Memorial Drive,42.361619320766856,-71.0804355052096,Asian
+164,Test 000e3,0.0,0.0,
+157,Seaport Blvd at Sleeper St,42.35317809186252,-71.04817356923377,White
+181,Huron Ave. At Vassal Lane,42.381650612901176,-71.13426981498378,White
+222,Troy Boston,42.343749,-71.062256,White
+232,Four Corners - 157 Washington St,42.30412792739016,-71.07929527759552,Black
+206,Government Center - Cambridge St at Court St,42.359802515995526,-71.05960782626425,White
+264,Washington St at Egremont Rd,42.3429444,-71.1413333,White
+253,Thetford Ave at Norfolk St,42.286251,-71.079463,Black
+259,Washington St at Bradlee St,42.297722,-71.073,Black
+239,Community Path at Cedar Street,42.39407223665884,-71.11133694648743,White
+191,Tappan St at Brookline Hills MBTA,42.33209606301936,-71.128458827734,White
+187,Cypress St at Clark Playground,42.32784317478686,-71.1253622174263,White
+234,Broadway at Central St,42.39517150121575,-71.09850591982195,White
+188,Foss Park,42.39108438146733,-71.09039425849915,White
+235,East Somerville Library (Broadway and Illinois),42.3876281075134,-71.08318716287613,White
+220,Grove St at Community Path,42.3963838795032,-71.12010508775711,White
+231,Washington St at Myrtle St,42.38172115782515,-71.08376650152422,White
+236,Assembly Square T,42.39223284004628,-71.07746601104736,White
+156,Somerville Hospital,42.39088801721338,-71.10962569713591,White
+260,Fields Corner T Stop,42.2996667,-71.0605833,Black
+238,Mass Ave at Hadley/Walden,42.39138548863825,-71.12288117408751,White
+144,Rogers St & Land Blvd,42.36575798214837,-71.07699394226073,White
+237,699 Mt Auburn St,42.37497659215716,-71.14863030630659,White
+168,Harvard Ave at Brainerd Rd,42.34956188545412,-71.1302706227616,White
+240,Harvard St at Greene-Rose Heritage Park,42.36599406030789,-71.09516322612761,Black
+233,St Mary's,42.346197076555455,-71.10728681087494,White
+256,Washington St at Talbot Ave,42.290333,-71.071806,Black
+258,Gallivan Blvd at Adams St,42.28297567840305,-71.05466698296368,White
+263,Mattapan Library,42.2773889,-71.09325,Black
+241,Mattapan T Stop,42.267902,-71.093641,Black
+255,Park St at Norwell St,42.2944167,-71.0783056,Black
+257,Codman Square Library,42.2873611,-71.0711111,Black
+248,Morton St T,42.28075382961448,-71.08621831150231,Black
+243,Commonwealth Ave at Kelton St,42.348368023549895,-71.13997621466297,White
+245,Blue Hill Ave at Almont St,42.27454525528758,-71.09372016051566,Black
+242,Roslindale Village - South St,42.287072,-71.127754,White
+246,Roslindale Village - Washington St,42.2861532,-71.1283744,White
+244,Archdale Rd at Washington St,42.292706,-71.121145,Hispanic or Latino
+262,Faneuil St at Arlington St,42.3528611,-71.1600278,White
+254,Talbot Ave At Blue Hill Ave,42.2945833,-71.087111,Black
+249,Commonwealth Ave at Chiswick Rd,42.3402177416592,-71.1517309399278,White
+155,Huntington Ave at Mass Art,42.33651909304393,-71.0989692435578,White
+247,Boylston St at Jersey St,42.344695708662215,-71.09723791480063,White
+252,Cleveland Circle,42.33553091872319,-71.15072786808014,White
+282,Stony Brook T Stop,42.316966,-71.104374,White
+283,Main St at Thompson Sq,42.374917,-71.063829,White
+281,Medford St at Charlestown BCYF,42.380584,-71.060875,White
+280,Main St at Baldwin St,42.380857,-71.070629,White
+274,Bennington St at Constitution Beach,42.385249,-71.010601,Hispanic or Latino
+277,Charlestown Navy Yard,42.37401065384493,-71.0548335313797,White
+284,One Brigham Circle,42.333919727205775,-71.10446777203833,White
+279,Williams St at Washington St,42.306539,-71.107669,White
+278,Centre St at Seaverns Ave,42.312120283566095,-71.11429806807791,White
+250,Park Plaza at Columbus Ave,42.35186,-71.067688,White
+296,Farragut Rd at E. 6th St,42.3334,-71.02495,Hispanic or Latino
+295,Columbia Rd at Tierney Community Center,42.33023264684929,-71.0505741463021,White
+294,Deerfield St at Commonwealth Ave,42.349205689770685,-71.09727063041646,White
+307,Broadway T Stop,42.3428,-71.05751,White
+293,Bartlett St at John Elliot Sq,42.32946325922549,-71.09015820552486,Black
+306,Blue Hill Ave at Southwood St,42.31784,-71.07796,Black
+336,Mattapan T Stop,42.267902,-71.093641,Black
+302,Harrison Ave at Bennet St (former),42.3493102175903,-71.06210500001907,Asian
+299,Harrison Ave at Mullins Way (former),42.34510857037852,-71.06392078119825,White
+300,Tremont St at Northampton St (former),42.33884970690809,-71.08140613892829,White
+347,Thetford Ave at Norfolk St,42.286212948246096,-71.07942931372236,Black
+341,Roslindale Village - Washington St,42.28630716010807,-71.12820532182013,White
+286,30 Dane St. (former),42.38112284630097,-71.10410027224134,White
+311,Vassal Lane at Tobin/VLUS (former),42.383928224564585,-71.13962350417751,White
+319,84 Cambridgepark Dr,42.3936,-71.143941,White
+355,Bennington St at Constitution Beach,42.385223935870535,-71.01063068965232,Hispanic or Latino
+332,Harvard Ave at Brainerd Rd,42.34953016890375,-71.13022770741735,White
+333,699 Mt Auburn St,42.37500235137831,-71.14871613699506,White
+335,Harvard St at Greene-Rose Heritage Park,42.36599432867437,-71.09522221614498,Black
+330,30 Dane St.,42.38100143038052,-71.10402522613185,White
+327,Main St at Thompson Sq,42.374878467440965,-71.06383498767171,White
+328,Grove St at Community Path,42.396386809455,-71.12011306006025,White
+331,Huntington Ave at Mass Art,42.336585554561154,-71.0988699646623,White
+329,Washington St at Myrtle St,42.381699831636816,-71.08377588917392,White
+334,Mass Ave at Hadley/Walden,42.39120971915856,-71.12260755160605,White
+337,Roslindale Village - South St,42.287072,-71.127754,White
+342,Boylston St at Jersey St,42.34465062887831,-71.09732501226972,White
+345,Park Plaza at Charles St,42.35182806892068,-71.06781138111728,White
+348,Talbot Ave At Blue Hill Ave,42.2945833,-71.087111,Black
+339,Archdale Rd at Washington St,42.29266592872725,-71.12119538714069,Hispanic or Latino
+338,Commonwealth Ave at Kelton St,42.348358628170445,-71.13997217276847,White
+351,Faneuil St at Arlington St,42.35276620545606,-71.15988485533308,White
+346,Cleveland Circle,42.335543083570826,-71.15061519672052,White
+344,Commonwealth Ave at Chiswick Rd,42.34024644768889,-71.15168806174552,White
+318,Ames St at Broadway,42.3636929,-71.0875672,Asian
+352,Ring Rd,42.348278385426255,-71.08044855314802,White
+350,Codman Square Library,42.2873611,-71.071111,Black
+340,Blue Hill Ave at Almont St,42.27462067181224,-71.09372552493369,Black
+343,Morton St T,42.280725142920296,-71.08617242434775,Black
+349,Washington St at Talbot Ave,42.290333,-71.071806,Black
+317,BCBS Quincy,42.27600498756665,-71.03924982267927,Asian
+356,Charlestown Navy Yard,42.374124549426526,-71.05481199938367,White
+308,BCBS Hingham,42.16722555541654,-70.90555783370291,White
+354,Washington St at Egremont Rd,42.34286835071959,-71.14127840855872,White
+353,Mattapan Library,42.2773889,-71.09325,Black
+361,Deerfield St at Commonwealth Ave,42.34924376955301,-71.09728209692548,White
+359,One Brigham Circle,42.33392270136997,-71.10446508982932,White
+363,Harrison Ave at Mullins Way,42.34521562115022,-71.0638403149278,White
+357,Centre St at Seaverns Ave,42.3121203,-71.1142981,White
+365,Harrison Ave at Bennet St,42.34942609892521,-71.06209959843909,Asian
+358,Medford St at Charlestown BCYF,42.380429474494896,-71.06055721676967,White
+364,Tremont St at Northampton St,42.33889559644165,-71.08149975611013,White
+366,Broadway T Stop,42.34278116224413,-71.05747275072645,White
+362,Columbia Rd at Tierney Community Center,42.33023070528729,-71.05060093123029,White
+360,Bartlett St at John Elliot Sq,42.3294633,-71.0901582,Black
+367,Vassal Lane at Tobin/VLUS,42.3839322489048,-71.13961271959852,White
+369,Boston Public Market,42.36254854409333,-71.0573735833168,White
+370,Dartmouth St at Newbury St,42.35096144421219,-71.07782810926437,White
+368,Blue Hill Ave at Southwood St,42.31786020589988,-71.07798628527235,Black
+371,700 Huron Ave,42.380788172914286,-71.15412890911102,White
+372,Boylston St at Exeter St,42.349589423682445,-71.0794677917329,White
+373,Belgrade Ave at Walworth St,42.28634589486312,-71.13672129828046,White
+374,Tremont St at Hamilton Place,42.35668334969929,-71.06166645884514,White
+376,Honan Library,42.36027370454934,-71.12852452327388,White
+377,Perry Park,42.37927324600841,-71.10341902831351,White
+378,191 Beacon St,42.38032335045416,-71.10878612855231,White
+380,Mass Ave at Albany St,42.36135837662249,-71.09670273977825,White
+379,Tremont St at W. Dedham St,42.34254913737952,-71.07421449387857,White
+381,Inman Square at Springfield St.,42.37438408515815,-71.1001574621514,White
+384,Clarendon St at Commonwealth Ave,42.35219035145307,-71.0760041699723,White
+385,Albany St at E. Brookline St,42.33664795427071,-71.0689445958451,White
+386,Sennott Park  Broadway at Norfolk Street,42.36860524248197,-71.09930185605663,White
+271,Ashmont T Stop,42.2856944,-71.0641389,White
+404,Mass Ave T Station,42.34135615767354,-71.08336953450817,White
+387,7 Acre Park,42.41143222973408,-71.06823265090497,White
+390,Broadway at Lynde St,42.39648358247693,-71.06546759905541,White
+389,Everett Square (Broadway at Chelsea St),42.40725945172653,-71.05546381333625,White
+388,Main Street at Carter Street,42.406151572663504,-71.0604074504954,White
+392,Glendale Square (Ferry St at Broadway),42.41427294293992,-71.04479655659816,White
+397,Broadway at Beacham St,42.39836059620832,-71.06373842814719,White
+394,Broadway at Maple St,42.410346909767846,-71.05260457852637,White
+395,Chelsea St at Vine St,42.40328056972533,-71.04762639859473,Hispanic or Latino
+396,Wasgatt Playground,42.4093300667225,-71.06381878293178,White
+391,Encore,42.39329263225162,-71.0724475979805,White
+393,Swan St. Park,42.412504507772105,-71.05842225271772,White
+272,Shawmut T Stop,42.292917,-71.06575,Black
+405,Sydney St at Carson St,42.32039374304257,-71.05355408051764,White
+398,75 Binney St,42.36550728505653,-71.0801375997653,White
+273,Forest Hills,42.300923,-71.114249,White
+399,Shawmut Ave at Oak St W,42.34854543411198,-71.06559185315746,White
+400,Lansdowne T Stop,42.34734473177431,-71.1001680795016,White
+403,Marion St at Harvard St,42.33978052668946,-71.12133350232398,White
+402,Washington St at Griggs Rd,42.33833423719901,-71.13050930220197,White
+401,High St at Cypress St,42.32538435700882,-71.12177595532557,White
+101,Ball Sq,42.39918259930251,-71.11104454854285,White
+406,Somerville City Hall Annex,42.39189811591863,-71.09745375830244,White
+431,Washington St at Fuller St,42.281986277339136,-71.07147924620222,Black
+408,Edgerly Education Center,42.38717463348314,-71.08714388528824,White
+407,Craigie at Summer St,42.388305537644,-71.11067976811682,White
+409,Elm St at White St,42.38952436305763,-71.11694140364307,White
+383,MTL-ECO5.1-01,0.0,0.0,
+382,MTL-ECO4-01,0.0,0.0,
+412,Washington St at Peters Park,42.34303291130257,-71.06688730436872,White
+411,Dorchester Ave at King St,42.29175621632091,-71.0625918023743,White
+410,Adams St at Lonsdale St,42.291679428741226,-71.05726346409938,White
+426,Surface Rd at Summer St,42.35294569782581,-71.05656400803126,White
+413,Kennedy-Longfellow School 158 Spring St,42.36955297756508,-71.08579014980933,White
+414,Discovery Park - 30 Acorn Park Drive,42.39790817368333,-71.14797130814623,White
+415,Stuart St at Berkeley St,42.34954403114251,-71.0724207387284,White
+416,Blossom St at Charles St,42.36435589027983,-71.0695936904267,White
+417,Columbus Ave at W. Canton St,42.34474224772802,-71.07648162175792,White
+419,Central Square East Boston,42.37544912547037,-71.03918548682486,Hispanic or Latino
+420,Charles St at Pinckney St,42.35872530462163,-71.07079532006537,White
+421,Northbourne Rd at Hyde Park Ave,42.29118034790426,-71.117736660035,White
+422,American Legion Hwy at Canterbury St,42.278811581565975,-71.11687703062671,Hispanic or Latino
+223,Mobile Temporary Station 2,0.0,0.0,
+423,Mt. Hope St at Hyde Park Ave,42.28484472443536,-71.11874517062459,Hispanic or Latino
+433,Centre St at Parkway YMCA,42.28277901074054,-71.15728851416861,White
+425,The Dimock Center,42.3193094317828,-71.09639923859504,Hispanic or Latino
+424,Jamaica St at South St,42.3060456272408,-71.11570891001975,White
+428,Western Ave at Richardson St,42.36178741066188,-71.14393111327445,White
+427,Washington St at Denton Terr,42.280728147169015,-71.13423757273267,White
+430,Washington St at Walsh Playground,42.27719469639791,-71.06955613950048,Black
+432,Centre St at W. Roxbury Post Office,42.28633199112775,-71.15344755369732,White
+435,Central Ave at River St,42.27094707029229,-71.07337901405117,Black
+436,Maverick St at Massport Path,42.36774122306014,-71.0333597474255,White
+437,Berkshire Street at Cambridge Street,42.37207657915397,-71.08995433905875,White
+438,Mobile Temporary Station,42.35967536371111,-71.10160055174674,White
+434,Spring St at Powell St,42.277484442008216,-71.16341467955863,White
+441,Sullivan Square,42.38445225635844,-71.07514854529654,White
+440,Boston Landing,42.35656092308941,-71.14167537549292,White
+443,Whittier St Health Center,42.33286288486264,-71.09218861916816,White
+442,Hyde Park Ave at Walk Hill St,42.29606704649873,-71.11601199963843,White
+446,700 Commonwealth Ave.,42.34960945333059,-71.10391523698127,White
+445,Geiger Gibson Community Health Center,42.31886468217537,-71.04536797860419,Asian
+447,The Overlook at St. Gabriel's,42.34679008347347,-71.14549813806661,Hispanic or Latino
+448,Hale Park,42.414962648832656,-71.05279301009432,White
+450,Beacon St at Englewood Ave,42.33736915370925,-71.14485977232107,White
+452,Beacon St at St. Paul St,42.34373094998716,-71.11614107161584,White
+453,Beacon St at Hawes St,42.34496783328529,-71.11040176903771,White
+451,Washington Sq,42.33940659197945,-71.13489642273635,White
+454,Boylston St at Dartmouth St,42.35010609546997,-71.07720464005979,White
+455,Coolidge Sq.,42.37207611472287,-71.15683130688922,White
+458,Watertown Sq,42.365260317694485,-71.18573324459247,White
+457,N. Beacon St at N. Beacon Ct,42.36444157139109,-71.18091373646166,White
+456,Graham and Parks School – Linnaean St at Walker St,42.38294430172271,-71.12449831038248,White
+459,Canal St at Causeway St,42.36530094929082,-71.06092190993877,White
+460,Broad St at Central St,42.35849449039304,-71.05426469875965,White
+461,Railroad Lot and Minuteman Bikeway,42.416084844039744,-71.15315407052549,White
+462,Linwood St at Minuteman Bikeway,42.40935395518158,-71.14906518727366,White
+463,Smith Pl at Wilson Rd,42.39239749145834,-71.15058331757609,White
+464,Mass Ave at Grafton St,42.40726052447951,-71.14382132425817,White
+465,Broadway at Grafton St,42.40994213011757,-71.14009319811885,White
+470,Union St at Herrick Rd – Newton Centre Green Line,42.32956868185623,-71.19367271661758,White
+467,Washington St at Crafts St,42.35389024396587,-71.19943707257335,White
+468,Nonantum Library,42.36068455768156,-71.20146199598821,White
+469,Bacon St at Washington St,42.35711920909866,-71.1860453666327,White
+466,Centre St at Washington St,42.35574334805774,-71.18641942508475,White
+476,Boylston St at Charles St,42.3525760946701,-71.06764405041758,Hispanic or Latino
+477,Marion St at White St,42.38066930871317,-71.03907315999093,Hispanic or Latino
+478,Gove St at Orleans St,42.37057753242139,-71.03558540113227,Hispanic or Latino
+471,MIT Carleton St at Amherst St,42.36054174140606,-71.08669817447662,Asian
+472,MIT Hayward St at Amherst St,42.36085937353302,-71.08551858007559,Asian
+475,Arsenal Yards,42.36277388549605,-71.15764854490408,White
+474,West Newton Armory,42.34947178098653,-71.22000678911718,White
+473,West Newton,42.34960049864208,-71.2262749671936,White
+479,Galileo Galilei Way at Main Street,42.363003781560096,-71.08974037706501,Asian
+480,Thorndike Field at Minuteman Bikeway,42.40016804853787,-71.14456963094199,White
+481,645 Summer St,42.341780891371904,-71.03987016504107,Hispanic or Latino
+482,Kearins Playground,42.40616124132245,-71.06041654944418,White
+483,Porzio Park,42.364119035231525,-71.02876782417297,White
+485,Revere City Hall,42.40741,-71.0139,Hispanic or Latino
+487,Community Path at Lowell St,42.392525,-71.105587,White
+489,Day Sq,42.379295,-71.027733,Hispanic or Latino
+486,Langley Lot,42.330528,-71.192861,White
+488,Martha Eliot Health Center,42.324173,-71.10196,Hispanic or Latino
+484,Revere Public Library,42.408088,-71.008942,Hispanic or Latino
+490,Blue Hill Ave at Havelock St,42.286012,-71.090986,Black
+491,Harrison Ave at E. Dedham St,42.339194,-71.06975,White
+492,Harvard Stadium: N. Harvard St at Soldiers Field Rd,42.368019,-71.1242,White
+494,Watertown Town Hall,42.367621,-71.187936,White
+497,Washington St @ New Washington St (Temp Winter Station),42.381056,-71.087083,White
+496,Trum Field @ Cedar St (Temp Winter Station),42.398444,-71.107833,White
+495,Union Square East (Temp Winter Station),42.380078,-71.090098,White
+499,Conway Park @ Bleachery Ct (Temp Winter Station),42.3836409294306,-71.10868692398071,White
+498,Broadway Opposite Norwood Ave  (Temp Winter Station),42.396764,-71.102376,White
+493,2 Hummingbird Lane at Olmsted Green,42.28887,-71.095003,Black
+504,Bellingham Square,42.39301409032274,-71.0339249682147,Hispanic or Latino
+505,Chelsea Square,42.39022671103383,-71.03857017704286,Hispanic or Latino
+503,Cary Square,42.398135645582464,-71.030709722545,Hispanic or Latino
+506,Broadway at Gerrish Ave,42.39453079292221,-71.03085594484583,Hispanic or Latino
+502,160 Arsenal,42.36466403441681,-71.17569386959076,White
+507,Chelsea Station,42.39636527849676,-71.03987179230899,Hispanic or Latino
+508,855 Broadway,42.398417726101584,-71.02390923402707,Hispanic or Latino
+509,Nichols Ave. at Watertown Greenway,42.36762048745005,-71.1565663665533,White
+510,Mass Ave at Broadway,42.414202132001854,-71.15051883389242,White
+511,Bellevue T Stop,42.28611420958351,-71.14636927843094,White
+512,Knoll St at Centre St,42.29376656473529,-71.1365658044815,White
+514,Pearl St at Medford St,42.38815705419525,-71.09588742256165,White
+515,955 Mass Ave,42.36895180540729,-71.10998779535294,White
+513,Roseland St At Dorchester Ave,42.2911685327193,-71.06300890445709,Black
+516,Salem Ferry Landing,42.52189284110247,-70.8806911110878,White
+520,Salem MBTA - Washington at Federal St,42.52345239346618,-70.89611113071442,White
+519,Mayor Salvo Path at Mill St,42.51803519796769,-70.89570075273514,White
+518,Shetland Park - Congress at Peabody St,42.51836788262243,-70.88952362537384,Hispanic or Latino
+517,Salem Willows Park,42.53466911383265,-70.87021440267563,White
+521,Lafayette at Leach St,42.51142784358897,-70.89183300733566,White
+522,Salem State University - Bike Path at Loring Ave,42.50182398896298,-70.89478075504303,White
+524,Newton Highlands T,42.322065656952944,-71.2063729763031,White
+523,Boston College T,42.33987891612856,-71.16708934307098,White
+525,California at Chapel,42.365148708129546,-71.20236039161682,White
+526,Beacon at Walnut,42.330062324403,-71.20668411254883,White
+527,Newton Library,42.33620336883013,-71.207794547081,White
+528,Washington St at Walnut St,42.351458116963016,-71.20764970779419,White
+529,One Beacon St,42.358477644348106,-71.06135129928589,White
+530,Foley St at Grand Union Blvd,42.39301840035393,-71.08071684837341,White
+531,Harvard St and Stedman St,42.3443517550051,-71.12490355968475,White
+532,Concord Ave at Spinelli Place,42.390719,-71.1538877,White
+533,Danehy Park at New Street,42.389456,-71.139019,White
+534,Adams Branch Library,42.286011,-71.054689,White
+536,Clinton St at North St,42.3607028354884,-71.05524927377701,White
+535,Auburndale,42.34805541493346,-71.2477594614029,White
+537,Charles River Greenway - California St. at Fifth Ave,42.36455361053197,-71.19100391864777,White
+540,Sumner St at Shirley Ave,42.40833705812975,-70.99804848432541,Hispanic or Latino
+538,Circuit Drive at American Legion Hwy,42.29704126420948,-71.09171926975249,Black
+539,Walnut Ave at School St,42.31242399029812,-71.09616905450821,Black
+541,Orr Sq (Shirley Ave),42.40715655698643,-70.99272429943085,Hispanic or Latino
+542,Hyde Park Ave at Arlington St,42.26286746177123,-71.12163126468657,Hispanic or Latino
+543,American Legion Hwy at Hyde Park Ave,42.27265394101898,-71.119903922081,Black
+545,Morton St at Gallivan Blvd,42.278747,-71.080286,Black
+544,Old Morse Park at Putnam Ave,42.35766247889882,-71.1084133386612,White
+546,Cleary Sq,42.2556,-71.12444,Black
+549,Valenti Way at Haverhill St,42.36473898691789,-71.05934903025626,White
+547,606 American Legion Hwy at Canterbury St,42.28578,-71.109725,White
+550,Somerville High School & Central Library,42.3864,-71.09601,White
+553,Cambridge Crossing at North First Street,42.371141,-71.076198,White
+548,555 Metropolitan Ave,42.2681,-71.11924,Hispanic or Latino
+554,Forsyth St at Huntington Ave,42.339202,-71.090511,White
+555,Hyde Park Library,42.2568376,-71.122509,Black
+557,Galileo Galilei Way at Fulkerson St/Binney St,42.3664204,-71.0885418,White
+558,St. Alphonsus St at Tremont St,42.33329254719182,-71.10124647617339,White
+561,Pier 4 Blvd at Autumn Ln,42.3502102,-71.0446705,White
+560,Flat 9 at Whittier,42.33420351352245,-71.08767616843123,White
+556,Ross Playground,42.2645666,-71.1145523,Black
+559,Centre St at Commonwealth Ave,42.3362358,-71.1934421,White
+562,Hawthorne Boulevard,42.5223714,-70.8903331,Hispanic or Latino
+563,Addison St at Saratoga St,42.38518146513944,-71.0151367,Hispanic or Latino
+564,Raymond Park at Walden St,42.38736953747185,-71.12761001482795,White
+565,Wellington MBTA,42.4023682,-71.07573182424781,White
+566,Main Street/Albany Street/Technology Square,42.3629016,-71.0915669,Black
+568,Shawmut Ave at Lenox St,42.33584612997077,-71.08038157224655,Hispanic or Latino
+567,Brighton Ave at Linden St,42.3528376,-71.1296752,White
+569,Hood Park,42.38004534693313,-71.0730457305908,White
+570,Salem State University - North Campus,42.503332,-70.891444,White
+572,Essex St at Dalton Parkway,42.516223,-70.905535,White
+571,Forest River Park,42.506395,-70.88693,White
+573,Salem MBTA - Lower Level,42.523994,-70.89684,White
+578,Tufts Sq - Main St at Medford St,42.401697,-71.106128,White
+575,Goodhue St at Grove St,42.520897,-70.910528,White
+576,Main St at Brooks Park,42.411709,-71.110444,White
+582,Gore Street at Lambert Street,42.373079797934935,-71.08634233665725,White
+577,Medford Sq - Riverside Ave at River St,42.417724,-71.108102,White
+574,Community Life Center,42.520136,-70.906271,White
+583,Broad Canal Way at Third Street,42.36304549626695,-71.08287078916874,White
+584,Malden Center T Station,42.426541,-71.073179,Asian
+585,Northern Strand at Main St,42.42386,-71.067793,Asian
+586,Gramsdorf Playground,42.408156,-71.0429,Hispanic or Latino
+587,Malden High School,42.426537658440544,-71.06393694877625,Asian

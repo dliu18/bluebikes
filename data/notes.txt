@@ -1,0 +1,7 @@
+* How to create stations_tracts.csv
+	* Collect station data by iterating through ride logs. Maintain a set of stations, adding each station the first time it is encountered when iterating through logs chronologically. 
+* Renamed data file names to use hyphens instead of underscores
+* From 2015 - Apr 2020, the data files have the folowing header
+    "tripduration","starttime","stoptime","start station id","start station name","start station latitude","start station longitude","end station id","end station name","end station latitude","end station longitude","bikeid","usertype","birth year","gender"
+* After April 2020, the data files have the following header:
+    "tripduration","starttime","stoptime","start station id","start station name","start station latitude","start station longitude","end station id","end station name","end station latitude","end station longitude","bikeid","usertype","postal code"
